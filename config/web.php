@@ -49,7 +49,6 @@ $config = [
             'rules' => [
                 ['class' => 'yii\rest\UrlRule', 'controller' => 'course'],
                 ['class' => 'yii\rest\UrlRule', 'controller' => 'knowlege'],
-                ['class' => 'yii\rest\UrlRule', 'controller' => 'knowlege-type'],
             ],
         ],
 
